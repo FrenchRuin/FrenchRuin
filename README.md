@@ -25,7 +25,7 @@ Address = Seoul.Gangseo
 
 Mainly trying to acquire **Front-end skills**, and **Back-end(JAVA)** skills will also be acquired <br>
 and Mainly renewing some company's main page **(Compose , Starbucks , Kia , Vans ...)**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrenchRuin&repo=github-readme-stats)](https://github.com/FrenchRuin/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FrenchRuin&repo=My-Project)](https://github.com/FrenchRuin/My-Project)
 
 
 
