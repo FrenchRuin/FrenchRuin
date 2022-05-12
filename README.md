@@ -17,7 +17,7 @@ Address = ['Seoul Gangseo']
 ----
 
 
-:blush:<a style='display:block' href="https://www.instagram.com/ch_3.27/"><img src="https://img.shields.io/badge/ch_3.27-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ch_3.27/"/></a>
+:blush:<a  href="https://www.instagram.com/ch_3.27/"><img src="https://img.shields.io/badge/ch_3.27-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ch_3.27/"/></a>
 
 
 
