@@ -30,7 +30,7 @@ Address = Seoul.Gangseo
 Mainly trying to acquire **Front-end skills**, and **Back-end(JAVA)** skills will also be acquired <br>
 and Mainly renewing some company's main page **(Compose , Starbucks , Kia , Vans ...)**
 
-U can visit **<a href="https://github.com/FrenchRuin/My-Project" >My Project</a>** 
+U can visit **<a href="https://github.com/FrenchRuin/My-Project" >My Project</a>** :strawberry:
 
 
 
