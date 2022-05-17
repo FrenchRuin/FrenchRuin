@@ -31,7 +31,7 @@ Mainly trying to acquire **Front-end skills**, and **Back-end(JAVA)** skills wil
 and Mainly renewing some company's main page **(Compose , Starbucks , Kia , Vans ...)**
 
 U can visit 🍓 **<a href="https://github.com/FrenchRuin/My-Project" >My Project</a>** 🍓 &
-Or 🍑 **<a href="https://github.com/FrenchRuin/Profile-Page">Profile</a>** 🍑
+Or 🍑 **<a href="https://frenchruin.github.io/profileSite/">Profile</a>** 🍑
 
 
 
