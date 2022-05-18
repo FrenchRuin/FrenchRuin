@@ -8,10 +8,11 @@
 
 
 ```js
-Name = ["Jae Chan Lee",
-        "Birth = 97.03.27"
-        "Address = Seoul.Gangseo"]
-        console.log("🔥🔥🔥🔥")
+ME = ["Jae Chan Lee",
+      "Birth = 97.03.27"
+      "Address = Seoul.Gangseo"]
+ console.log("🔥🔥🔥🔥")
+ 
 ```
 ---
 ## :star: What Can I DO?:star:
