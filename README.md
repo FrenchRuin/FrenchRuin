@@ -24,7 +24,6 @@ ME = ["Jae Chan Lee",
 <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/adobe XD-FF61F6?style=flat-square&logo=adobe XD&logoColor=white"/>  <img src="https://img.shields.io/badge/Intelli J-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/><img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=CLion&logoColor=white"/>
 ---
 ### :point_down: MY status :point_down:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchRuin)](https://github.com/FrenchRuin/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchRuin&theme=dark&show_icons=true)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFrenchRuin%2Fhit-counter&count_bg=%238024E5&title_bg=%231B1A1A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ----
