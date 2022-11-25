@@ -2,8 +2,7 @@
 
 
 # :smiley_cat: Welcome To my GitHub Page! :smiley_cat: 
-<a  href="https://www.instagram.com/ch_3.27/"><img src="https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ch_3.27/"/></a>
-<a  href="https://www.notion.so/toxic023/Study-525d4414dfc74e3182b88355d8e5db18"><img src="https://img.shields.io/badge/notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/toxic023/Study-525d4414dfc74e3182b88355d8e5db18"/></a>
+
 
 
 
