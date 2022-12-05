@@ -7,11 +7,12 @@
 
 
 ```js
-ME = ["Jae Chan Lee",
-      "Birth = 97.03.27"
-      "Address = Seoul.Gangseo"]
- console.log("🔥🔥🔥🔥")
- 
+Who = { 🔥🔥🔥🔥
+     'name' : 'Lee Jae Chan',
+     'Birth' : '97.03.27',
+     'Address' : 'Seoul.Gangseo'
+        🔥🔥🔥🔥
+}
 ```
 ---
 ## :star: What Can I DO?:star:
