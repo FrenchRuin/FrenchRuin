@@ -40,7 +40,7 @@
 
 ![FrenchRuin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchRuin&show_icons=true&theme=apprentice)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toxic023&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchRuin&hide_progress=true)
 </div>
 
 
