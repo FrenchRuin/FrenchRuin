@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Lee+Jae+Chan&height=150&fontSize=60&desc=Develper&descAlignY=75&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Lee+Jae+Chan&height=150&fontSize=60&desc=Developer&descAlignY=75&descAlign=60)
 
 <div align="center">
 
