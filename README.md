@@ -5,6 +5,8 @@
 <div align="center">
 
 
+### 👀 Visit [My Github Blog](https://frenchruin.github.io/) 👀 
+
 ### :star: Language :star: 
 
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=eclipseide&logoColor=white"/> 
