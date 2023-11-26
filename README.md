@@ -5,7 +5,7 @@
 <div align="center">
 
 
-### 👀 [Visit My Github Blog](https://frenchruin.github.io/) 👀 
+### 👀 [Visit My Blog](https://velog.io/@french_ruin) 👀 
 
 ### :star: Language :star: 
 
