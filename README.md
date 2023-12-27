@@ -4,7 +4,7 @@
 
 
 
-### 👀 [Visit My Blog](https://velog.io/@french_ruin) 👀 
+### 👀 [Visit My Blog](https://frenchruin.tistory.com/) 👀 
 
 ### :star: Skills :star: 
 <div>
