@@ -1,14 +1,17 @@
 
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Lee+Jae+Chan&height=150&fontSize=60&desc=Developer&descAlignY=75&descAlign=60)
 
 
 
+
+  
 ### 👀 [Visit My Blog](https://frenchruin.tistory.com/) 👀 
 
 ### :star: Skills :star: 
-<div>
-  
+
+
 
 <img src="https://img.shields.io/badge/Java-2C2255?style=flat&logo=eclipseide&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
@@ -37,14 +40,14 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 <br>
 <br>
-</div>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=toxic023)](https://solved.ac/toxic023)
 
 ![FrenchRuin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchRuin&show_icons=true&theme=apprentice)
 
-
+</div>
 
 
 
