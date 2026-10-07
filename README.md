@@ -7,8 +7,6 @@
 
 
   
-### 👀 [Visit My Blog](https://frenchruin.tistory.com/) 👀 
-
 ### :star: Skills :star: 
 
 
